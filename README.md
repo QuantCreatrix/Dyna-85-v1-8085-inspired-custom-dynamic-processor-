@@ -10,3 +10,4 @@ Result: Simplified hardware, smaller control ROM, possibly faster decode stage.
 Example: instead of having different opcodes like traditionally in 8085, for MOV A B; MOV C D and more combinations; here there's one unified opcode for MOV REG1 REG2 that can handle it as one. 
 
 *v1 stands for since this project shared here features only one instruction MOV REG1 REG2. More instructions are being added. 
+*Rights are reserved. 
